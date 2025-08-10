@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "interval_hours": 1,
+  "reminder_text": "该打开思源笔记看看自己的目标了！\n\n记得检查：\n1. 今天的目标完成情况\n2. 明天的计划安排\n3. 重要事项记录",
+  "auto_start": false
+}
